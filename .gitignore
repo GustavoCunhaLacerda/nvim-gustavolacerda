@@ -1,0 +1,9 @@
+# Pastas de dados e plugins (o Lazy.nvim baixará de novo)
+.repro/
+/lua/plugins/bin/
+
+# Arquivos de log e temporários
+*.log
+
+# Se você usa o Lazy.nvim, ele cria uma pasta de lock, essa você PODE enviar.
+# Mas evite pastas como 'undodir' ou 'swap' se elas estiverem aqui dentro.
